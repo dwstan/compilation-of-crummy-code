@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class Solution {
+public class AnEscapeFromTime {
 
     // Read inputs, initialize graph
     public static void main(String[] args) {
