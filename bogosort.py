@@ -20,8 +20,11 @@ def sort(l):
 
 
 # example list to sort
-l = [1, 3, 2, 1, 5, 10, -4, 3]
-print(l)
+l = []
+size = 7
+for i in range(0, size):
+    l.append(random.randint(0, 10))
+print("unsorted:", l)
 # sort with bogosort
-print(sort(l))
-print(l)
+print("number of iterations:", sort(l))
+print("sorted:", l)
