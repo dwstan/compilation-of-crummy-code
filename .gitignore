@@ -3,3 +3,6 @@
 
 # Compiled C files
 *.out
+
+# vs code folder
+/.vscode/
