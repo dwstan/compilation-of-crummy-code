@@ -5,6 +5,7 @@ Feel free to add to this repository!!! (I'll probably accept everything, even no
 
 *this is not a serious repository, I would not recommend using any code in here in an actual project.
 
+:)
 
 ## License
 
